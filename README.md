@@ -1,4 +1,4 @@
-# Bitcoin-Value-Tracker
+# Bitcoin-Tracker
 A simple script that returns the current Bitcoin (BTC) value in Dollars.
 
 # Instructions
